@@ -9,8 +9,8 @@ Este es un proyecto Flutter para la visualización de hospitales. Utiliza `Bloc`
 Clona el repositorio del proyecto en tu máquina local:
 
 ```bash
-git clone https://github.com/tu-usuario/meddi-hospitales.git
-cd meddi-hospitales
+git clone https://github.com/CopyDawg/prueba_meddi.git
+cd prueba_meddi
 ```
 
 ### 2. Instalar las dependencias
