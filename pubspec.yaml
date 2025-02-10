@@ -1,0 +1,33 @@
+name: prueba_meddi
+description: "A new Flutter project."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.4 <4.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.6
+  dio: ^5.8.0+1
+  equatable: ^2.0.7
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^9.0.0
+  flutter_dotenv: ^5.2.1
+  go_router: ^14.8.0
+  shared_preferences: ^2.5.1
+
+dev_dependencies:
+  flutter_lints: ^3.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - .env
+    - assets/images/background_auth.png
+    - assets/images/background_home.png
+    - assets/images/no_image.jpg
+    - assets/images/meddi.png
+    - assets/images/meddi_white.png
